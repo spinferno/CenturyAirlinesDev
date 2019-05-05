@@ -1,0 +1,159 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 6, 2019 2:52:17 AM
+   Source : C:\Projects\Web\CenturyAirlinesDev\CenturyAirlines\bin\
+     Dest : C:\Projects\Web\CenturyAirlinesDev\CenturyAirlines\App_Data\NuGetBackup\20190506-025216\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  82	C:\Projects\Web\CenturyAirlinesDev\CenturyAirlines\bin\
+	    New File  		  166400	AutoMapper.dll  0%   78%  100%  
+	    New File  		   28672	AutoMapper.Net4.dll  0%  100%  
+	    New File  		  110592	businesslogic.dll  0%  100%  
+	    New File  		  112640	CenturyAirlines.dll  0%  100%  
+	    New File  		    4266	CenturyAirlines.dll.config  0%  100%  
+	    New File  		  179712	CenturyAirlines.pdb  0%   72%  100%  
+	    New File  		  150016	ClientDependency.Core.dll  0%   87%  100%  
+	    New File  		   23552	ClientDependency.Core.Mvc.dll  0%  100%  
+	    New File  		  454656	cms.dll  0%   28%   57%   86%  100%  
+	    New File  		   50688	controls.dll  0%  100%  
+	    New File  		   4.9 m	EntityFramework.dll  0%   10%   20%   30%   40%   50%   60%   70%   80%   90%  100%  
+	    New File  		  622288	EntityFramework.SqlServer.dll  0%   42%   84%  100%  
+	    New File  		  158388	EntityFramework.SqlServer.xml  0%   82%  100%  
+	    New File  		   3.5 m	EntityFramework.xml  0%   14%   28%   42%   56%   71%   85%   99%  100%  
+	    New File  		  120832	Examine.dll  0%  100%  
+	    New File  		  132608	HtmlAgilityPack.dll  0%   98%  100%  
+	    New File  		  200704	ICSharpCode.SharpZipLib.dll  0%   65%  100%  
+	    New File  		  184320	ImageProcessor.dll  0%   71%  100%  
+	    New File  		  125952	ImageProcessor.Web.dll  0%  100%  
+	    New File  		   24576	interfaces.dll  0%  100%  
+	    New File  		   15872	Log4Net.Async.dll  0%  100%  
+	    New File  		  276480	log4net.dll  0%   47%   94%  100%  
+	    New File  		  786432	Lucene.Net.dll  0%   33%   66%  100%  
+	    New File  		   49152	MarkdownSharp.dll  0%  100%  
+	    New File  		   11264	Microsoft.ApplicationBlocks.Data.dll  0%  100%  
+	    New File  		  171672	Microsoft.AspNet.Identity.Core.dll  0%   76%  100%  
+	    New File  		   54944	Microsoft.AspNet.Identity.Owin.dll  0%  100%  
+	    New File  		  346848	Microsoft.AspNet.SignalR.Core.dll  0%   37%   75%  100%  
+	    New File  		   3.8 m	Microsoft.CodeAnalysis.CSharp.dll  0%   13%   26%   39%   52%   65%   78%   91%  100%  
+	    New File  		   1.6 m	Microsoft.CodeAnalysis.dll  0%   15%   30%   45%   60%   76%   91%  100%  
+	    New File  		   40080	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll  0%  100%  
+	    New File  		    1805	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml  0%  100%  
+	    New File  		   41328	Microsoft.IO.RecyclableMemoryStream.dll  0%  100%  
+	    New File  		  101560	Microsoft.Owin.dll  0%  100%  
+	    New File  		  138936	Microsoft.Owin.Host.SystemWeb.dll  0%   94%  100%  
+	    New File  		   36536	Microsoft.Owin.Security.Cookies.dll  0%  100%  
+	    New File  		   53944	Microsoft.Owin.Security.dll  0%  100%  
+	    New File  		   77496	Microsoft.Owin.Security.OAuth.dll  0%  100%  
+	    New File  		   45416	Microsoft.Web.Infrastructure.dll  0%  100%  
+	    New File  		  396288	MiniProfiler.dll  0%   33%   66%   99%  100%  
+	    New File  		    4266	MVCSimpleApp.dll.config  0%  100%  
+	    New File  		  177664	MVCSimpleApp.pdb  0%   73%  100%  
+	    New File  		  431616	MySql.Data.dll  0%   30%   60%   91%  100%  
+	    New File  		  664576	Newtonsoft.Json.dll  0%   39%   78%  100%  
+	    New File  		  684778	Newtonsoft.Json.xml  0%   38%   76%  100%  
+	    New File  		    4608	Owin.dll  0%  100%  
+	    New File  		   10240	Semver.dll  0%  100%  
+	    New File  		   21504	SQLCE4Umbraco.dll  0%  100%  
+	    New File  		  204544	System.Collections.Immutable.dll  0%   64%  100%  
+	    New File  		  470696	System.Data.SqlServerCe.dll  0%   27%   55%   83%  100%  
+	    New File  		  240808	System.Data.SqlServerCe.Entity.dll  0%   54%  100%  
+	    New File  		  178808	System.Net.Http.Formatting.dll  0%   73%  100%  
+	    New File  		  192626	System.Net.Http.Formatting.xml  0%   68%  100%  
+	    New File  		  262896	System.Reflection.Metadata.dll  0%   49%   99%  100%  
+	    New File  		  179104	System.Threading.Tasks.Dataflow.dll  0%   73%  100%  
+	    New File  		   24776	System.ValueTuple.dll  0%  100%  
+	    New File  		  137144	System.Web.Helpers.dll  0%   95%  100%  
+	    New File  		   74850	System.Web.Helpers.xml  0%  100%  
+	    New File  		  455096	System.Web.Http.dll  0%   28%   57%   86%  100%  
+	    New File  		   79288	System.Web.Http.WebHost.dll  0%  100%  
+	    New File  		   10367	System.Web.Http.WebHost.xml  0%  100%  
+	    New File  		  539657	System.Web.Http.xml  0%   48%   97%  100%  
+	    New File  		  548280	System.Web.Mvc.dll  0%   47%   95%  100%  
+	    New File  		  952428	System.Web.Mvc.xml  0%   27%   55%   82%  100%  
+	    New File  		  263608	System.Web.Razor.dll  0%   49%   99%  100%  
+	    New File  		  522146	System.Web.Razor.xml  0%   25%   50%   75%  100%  
+	    New File  		   43128	System.Web.Webpages.Deployment.dll  0%  100%  
+	    New File  		    4867	System.Web.Webpages.Deployment.xml  0%  100%  
+	    New File  		  206456	System.Web.Webpages.dll  0%   63%  100%  
+	    New File  		   40888	System.Web.Webpages.Razor.dll  0%  100%  
+	    New File  		   25222	System.Web.Webpages.Razor.xml  0%  100%  
+	    New File  		  234716	System.Web.Webpages.xml  0%   55%  100%  
+	    New File  		  192512	TidyNet.dll  0%   68%  100%  
+	    New File  		   2.8 m	Umbraco.Core.dll  0%   17%   35%   53%   71%   88%  100%  
+	    New File  		   43008	umbraco.DataLayer.dll  0%  100%  
+	    New File  		   2.2 m	umbraco.dll  0%   21%   43%   65%   87%  100%  
+	    New File  		  368640	umbraco.editorControls.dll  0%   35%   71%  100%  
+	    New File  		  126976	umbraco.MacroEngines.dll  0%  100%  
+	    New File  		  105984	Umbraco.ModelsBuilder.dll  0%  100%  
+	    New File  		   36352	umbraco.providers.dll  0%  100%  
+	    New File  		   40960	Umbraco.Web.UI.dll  0%  100%  
+	    New File  		   68096	UmbracoExamine.dll  0%  100%  
+	  New Dir         46	C:\Projects\Web\CenturyAirlinesDev\CenturyAirlines\bin\roslyn\
+	    New File  		   49584	csc.exe  0%  100%  
+	    New File  		    8220	csc.exe.config  0%  100%  
+	    New File  		    1496	csc.rsp  0%  100%  
+	    New File  		   15280	csi.exe  0%  100%  
+	    New File  		    8816	csi.exe.config  0%  100%  
+	    New File  		     279	csi.rsp  0%  100%  
+	    New File  		  122800	Microsoft.Build.Tasks.CodeAnalysis.dll  0%  100%  
+	    New File  		   4.4 m	Microsoft.CodeAnalysis.CSharp.dll  0%   11%   22%   33%   44%   56%   67%   78%   89%  100%  
+	    New File  		   29104	Microsoft.CodeAnalysis.CSharp.Scripting.dll  0%  100%  
+	    New File  		   2.3 m	Microsoft.CodeAnalysis.dll  0%   21%   43%   65%   86%  100%  
+	    New File  		  128432	Microsoft.CodeAnalysis.Scripting.dll  0%  100%  
+	    New File  		   4.9 m	Microsoft.CodeAnalysis.VisualBasic.dll  0%   10%   20%   30%   40%   50%   60%   70%   80%   90%  100%  
+	    New File  		    6818	Microsoft.CSharp.Core.targets  0%  100%  
+	    New File  		   1.4 m	Microsoft.DiaSymReader.Native.amd64.dll  0%   17%   35%   52%   70%   87%  100%  
+	    New File  		   1.1 m	Microsoft.DiaSymReader.Native.x86.dll  0%   22%   44%   66%   88%  100%  
+	    New File  		    7040	Microsoft.Managed.Core.targets  0%  100%  
+	    New File  		    6236	Microsoft.VisualBasic.Core.targets  0%  100%  
+	    New File  		   20168	System.AppContext.dll  0%  100%  
+	    New File  		  244432	System.Collections.Immutable.dll  0%   53%  100%  
+	    New File  		   34496	System.Console.dll  0%  100%  
+	    New File  		   23464	System.Diagnostics.FileVersionInfo.dll  0%  100%  
+	    New File  		   23288	System.Diagnostics.StackTrace.dll  0%  100%  
+	    New File  		  111984	System.IO.Compression.dll  0%  100%  
+	    New File  		   22736	System.IO.FileSystem.dll  0%  100%  
+	    New File  		   22784	System.IO.FileSystem.Primitives.dll  0%  100%  
+	    New File  		   24984	System.IO.Pipes.AccessControl.dll  0%  100%  
+	    New File  		   22872	System.IO.Pipes.dll  0%  100%  
+	    New File  		  465104	System.Reflection.Metadata.dll  0%   28%   56%   84%  100%  
+	    New File  		   37784	System.Security.AccessControl.dll  0%  100%  
+	    New File  		   24792	System.Security.Claims.dll  0%  100%  
+	    New File  		   39872	System.Security.Cryptography.Algorithms.dll  0%  100%  
+	    New File  		   23480	System.Security.Cryptography.Encoding.dll  0%  100%  
+	    New File  		   22816	System.Security.Cryptography.Primitives.dll  0%  100%  
+	    New File  		   38872	System.Security.Cryptography.X509Certificates.dll  0%  100%  
+	    New File  		   23464	System.Security.Principal.Windows.dll  0%  100%  
+	    New File  		  766872	System.Text.Encoding.CodePages.dll  0%   34%   68%  100%  
+	    New File  		   77672	System.ValueTuple.dll  0%  100%  
+	    New File  		   23264	System.Xml.ReaderWriter.dll  0%  100%  
+	    New File  		   23256	System.Xml.XmlDocument.dll  0%  100%  
+	    New File  		   22720	System.Xml.XPath.dll  0%  100%  
+	    New File  		   25320	System.Xml.XPath.XDocument.dll  0%  100%  
+	    New File  		   49584	vbc.exe  0%  100%  
+	    New File  		    8220	vbc.exe.config  0%  100%  
+	    New File  		    1634	vbc.rsp  0%  100%  
+	    New File  		   87984	VBCSCompiler.exe  0%  100%  
+	    New File  		    8437	VBCSCompiler.exe.config  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         1         1         0         0         0
+   Files :       128       128         0         0         0         0
+   Bytes :   49.66 m   49.66 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           104985663 Bytes/sec.
+   Speed :            6007.327 MegaBytes/min.
+   Ended : Monday, May 6, 2019 2:52:17 AM
+

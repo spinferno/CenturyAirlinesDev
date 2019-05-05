@@ -1,0 +1,9 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "Master.cshtml";
+}
+
+<h2>Login</h2>
+<div id="loginForm">
+    @Html.Action("MemberLogin", "Membership");
+</div>

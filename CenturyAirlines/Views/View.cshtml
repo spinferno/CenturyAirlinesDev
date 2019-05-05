@@ -1,0 +1,26 @@
+﻿@model CenturyAirlines.Entities.Cities
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+    <div>
+        <h4>Cities</h4>
+        <hr />
+        <dl class="dl-horizontal">
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CityID }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

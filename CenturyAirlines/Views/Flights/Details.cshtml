@@ -1,0 +1,66 @@
+﻿@model CenturyAirlines.Entities.Flights
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Flights</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.FlightCode)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.FlightCode)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DepartureTime)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DepartureTime)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.ArrivalTime)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.ArrivalTime)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.IsFull)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.IsFull)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.SelectedDepartingFromCity)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.SelectedDepartingFromCity)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.FlightID }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
